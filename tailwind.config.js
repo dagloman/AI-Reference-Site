@@ -1,4 +1,3 @@
-:::
 module.exports = {
 content: [
 "./pages/**/*.{js,ts,jsx,tsx}",
@@ -8,4 +7,3 @@ extend: {},
 },
 plugins: [],
 };
-:::
